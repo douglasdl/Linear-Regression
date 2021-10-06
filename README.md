@@ -1,4 +1,4 @@
-# Linear-Regression
+# Regression
 
 - Linear Regression
 - Multiple Linear Regression
